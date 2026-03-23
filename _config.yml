@@ -1,1 +1,13 @@
+theme: just-the-docs
+title: LLB Notes
+description: Semester 4 Papers
 
+# Enable built-in TOC
+toc:
+  enabled: true
+
+# Better navigation
+nav_sort: case_sensitive
+
+# Optional (clean look)
+search_enabled: true
