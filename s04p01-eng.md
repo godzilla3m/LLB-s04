@@ -1,6 +1,8 @@
-# 2025
+# BSA
 
-## Question 1: Discuss and distinguish between proved, dis-proved and not proved.
+## 2025
+
+### Question 1: Discuss and distinguish between proved, dis-proved and not proved.
 
 **Introduction** The concepts of "Proved," "Disproved," and "Not Proved" are the fundamental standards by which a Court evaluates the existence or non-existence of facts. These terms do not imply absolute mathematical certainty but rather refer to the degree of belief or probability that a judge reaches after considering all the materials on record. Under **Section 2** of the **Bhartiya Sakshya Adhiniyam, 2023**, these terms are legally defined to guide judicial reasoning.
 
@@ -56,7 +58,7 @@ The primary distinction lies in the state of mind of the Court after evaluating 
 
 ---
 
-## Question 2: Discuss the theory of relevancy and admissibility. Whether both are same or different?
+### Question 2: Discuss the theory of relevancy and admissibility. Whether both are same or different?
 
 **Introduction** 
 
@@ -134,7 +136,7 @@ In summary, Relevancy and Admissibility are not the same. Relevancy is the test 
 
 ---
 
-## Question 3: "Facts which, though not in issue, are so connected with a fact in issue, as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places." Comment and give illustrations.
+### Question 3: "Facts which, though not in issue, are so connected with a fact in issue, as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places." Comment and give illustrations.
 
 **Introduction** The statement provided in the question is the verbatim text of **Section 4** of the **Bhartiya Sakshya Adhiniyam, 2023**. This section embodies the legal doctrine of **Res Gestae**, a Latin phrase meaning "things done" or "part of the transaction". It serves as an important exception to the general rule that "hearsay evidence is no evidence," allowing for the admission of statements or acts that are so closely tied to the main event that they are considered a part of it.
 
@@ -187,7 +189,7 @@ The BSA provides several key illustrations to explain how this connection works 
 
 ---
 
-## Question 4: What is admission? Who can make it? When can it be used by or on behalf of the person making it?
+### Question 4: What is admission? Who can make it? When can it be used by or on behalf of the person making it?
 
 ---
 
@@ -314,7 +316,7 @@ However, there are **three critical exceptions** where you can use your own admi
 
 ---
 
-## Question 5: Who is an expert? What is the difference between an expert and ordinary witness?
+### Question 5: Who is an expert? What is the difference between an expert and ordinary witness?
 
 **Introduction**
 
@@ -360,7 +362,7 @@ In the BSA, the expert acts as a bridge between complex science and the hall of 
 
 ---
 
-## Question 6: What is dying declaration? State the grounds on which a dying declaration is admitted in evidence.
+### Question 6: What is dying declaration? State the grounds on which a dying declaration is admitted in evidence.
 
 ---
 
@@ -447,7 +449,7 @@ While a dying declaration is substantive evidence, courts approach it with cauti
 
 ---
 
-## Question 7: Define judicial notice and discuss the circumstance in which court shall take the judicial notice.
+### Question 7: Define judicial notice and discuss the circumstance in which court shall take the judicial notice.
 
 ---
 
@@ -534,7 +536,7 @@ Even though the law says the Court "shall" take notice, a Judge is still a human
 
 ---
 
-## Question 8: Define Estoppel. What are the essential ingredients of estoppel?
+### Question 8: Define Estoppel. What are the essential ingredients of estoppel?
 
 ---
 
@@ -604,7 +606,7 @@ Estoppel is essentially a rule of "fair play" in the legal system. It prevents t
 
 ---
 
-## Question 9: What are leading questions? When can leading questions be asked?
+### Question 9: What are leading questions? When can leading questions be asked?
 
 The definition of a **leading question** is found in **Section 146(1)** of the **Bhartiya Sakshya Adhiniyam, 2023**. 
 
@@ -632,7 +634,7 @@ In conclusion, the legal framework for **leading questions** under **Section 146
 
 ---
 
-## Question 10: When can improper admission or rejection of evidence be ground for retrial or reversal of the decision in any case?
+### Question 10: When can improper admission or rejection of evidence be ground for retrial or reversal of the decision in any case?
 
 **Introduction to Section 169** Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, the rules regarding the consequences of mistakes made by a trial court in admitting or rejecting evidence are governed by **Section 169**. This section is based on the principle of "substantial justice," meaning that a higher court will not overturn a judgment or order a retrial just because of a technical error in evidence, provided the final outcome of the case was correct.
 
@@ -654,9 +656,9 @@ In conclusion, the legal framework for **leading questions** under **Section 146
 
 ---
 
-# 2024
+## 2024
 
-## Question 1\. Explain 'Fact in Issue' and 'Relevant Facts' under Law of Evidence. Point out some differences between them.
+### Question 1\. Explain 'Fact in Issue' and 'Relevant Facts' under Law of Evidence. Point out some differences between them.
 
 In the Law of Evidence, the entire judicial process revolves around two central concepts: what needs to be decided (**Fact in Issue**) and what information helps the court reach that decision (**Relevant Facts**). Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, these concepts are the filters that determine what the judge will hear and what they will ignore. **Section 3** of the Adhiniyam explicitly states that evidence may be given only of the existence or non-existence of every fact in issue and of relevant facts, and of no others.
 
@@ -709,7 +711,7 @@ Understanding the boundary between these two is vital. While the **Fact in Issue
 
 ---
 
-## Question 2: 'Relevancy and admissibility are **not** co-extensive terms'. Comment in reference to the provisions of the Indian Evidence Act, 1872 (now replaced by the Bhartiya Sakshya Adhiniyam, 2023).
+### Question 2: 'Relevancy and admissibility are **not** co-extensive terms'. Comment in reference to the provisions of the Indian Evidence Act, 1872 (now replaced by the Bhartiya Sakshya Adhiniyam, 2023).
 
 **Meaning of Co‑extensive**
 
@@ -769,7 +771,7 @@ To conclude, relevancy and admissibility are two different stages of the evident
 
 ---
 
-## Question 3: How “facts” which are necessary to explain or “introduce relevant facts” are relevant under Sec. 9 of the Indian Evidence Act, 1872 (BSA Section \- 7)? Explain.
+### Question 3: How “facts” which are necessary to explain or “introduce relevant facts” are relevant under Sec. 9 of the Indian Evidence Act, 1872 (BSA Section \- 7)? Explain.
 
 **Introduction to Section 7 of the Bhartiya Sakshya Adhiniyam (BSA), 2023**
 
@@ -826,7 +828,7 @@ Section 7 of the BSA (Old Section 9 IEA) ensures that a trial is not just a coll
 
 ---
 
-## Question 4: "Anything said or done or written by any one of the conspirators in reference to their common intention as relevant fact not only against each of the conspirator but proving the conspiracy itself." Explain with case laws.
+### Question 4: "Anything said or done or written by any one of the conspirators in reference to their common intention as relevant fact not only against each of the conspirator but proving the conspiracy itself." Explain with case laws.
 
 **Introduction to Section 8 of the Bhartiya Sakshya Adhiniyam (BSA), 2023**
 
@@ -883,13 +885,13 @@ The Supreme Court further refined this by stating that the words "in reference t
 
 ---
 
-## Question 5\. What do you understand by an 'Admission'? Who can make an admission under provisions of Indian Evidence Act, 1872?
+### Question 5\. What do you understand by an 'Admission'? Who can make an admission under provisions of Indian Evidence Act, 1872?
 
 Already answered [here](#question-4:-what-is-admission?-who-can-make-it?-when-can-it-be-used-by-or-on-behalf-of-the-person-making-it?)
 
 ---
 
-## Question 6\. When confession is relevant? State the principle of the use of a confession of an accused against a co-accused.
+### Question 6\. When confession is relevant? State the principle of the use of a confession of an accused against a co-accused.
 
 **Definition of Confession**
 
@@ -934,7 +936,7 @@ Confessions under the **BSA 2023** are treated with great caution. The law ensur
 
 ---
 
-## Question 7: Discuss the essential conditions for the relevancy of a dying declaration under Sec. 32(1) of the Indian Evidence Act, 1872 (now Section 26(a) of the Bhartiya Sakshya Adhiniyam, 2023).
+### Question 7: Discuss the essential conditions for the relevancy of a dying declaration under Sec. 32(1) of the Indian Evidence Act, 1872 (now Section 26(a) of the Bhartiya Sakshya Adhiniyam, 2023).
 
 While your question refers to Section 32(1) of the old Act, the governing provision in your new syllabus is **Section 26(a)** of the **Bhartiya Sakshya Adhiniyam (BSA), 2023**. A dying declaration is a statement made by a person as to the cause of their death or as to any of the circumstances of the transaction which resulted in their death. For such a statement to be legally relevant and admissible in a court of law, several essential conditions must be satisfied.
 
@@ -984,7 +986,7 @@ While a dying declaration is a "weak" type of evidence because the maker cannot 
 
 ---
 
-## Question 8: Explain under what circumstances secondary evidences are permissible in place of primary evidences.
+### Question 8: Explain under what circumstances secondary evidences are permissible in place of primary evidences.
 
 The general rule of the law of evidence is that a document must be proved by its "Primary Evidence," which means the original document itself must be produced for the inspection of the Court. This is known as the **"Best Evidence Rule."** 
 
@@ -1024,7 +1026,7 @@ However, there are practical situations where the original document may be unava
 
 ---
 
-## Question 9: "The burden of proof lies on the party who substantially asserts the affirmative of the issue." Explain and mention its exceptions.
+### Question 9: "The burden of proof lies on the party who substantially asserts the affirmative of the issue." Explain and mention its exceptions.
 
 **🧠Affirmative of the issue** \= the positive claim in dispute.  
 👍If you are the one saying *“X happened”*, you must prove it.
@@ -1069,7 +1071,7 @@ The principle that the burden lies on the "affirmative" ensures that trials are 
 
 ---
 
-## Question 10: Write short notes on any two of the following: (a) Relevancy of electronic evidence, (b) Leading Questions and (c) Bhartiya Sakshya Adhiniyam, 2023\.
+### Question 10: Write short notes on any two of the following: (a) Relevancy of electronic evidence, (b) Leading Questions and (c) Bhartiya Sakshya Adhiniyam, 2023\.
 
 **Note (a): Relevancy of Electronic Evidence**
 
