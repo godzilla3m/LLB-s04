@@ -1,8 +1,9 @@
-# 📚 LLB Note
+# LLB Note
 2nd year, 4th semester, papers
 
-## Semester 4 Papers
+## 4th semester Papers
 
+- [Assignment](s04-assignment.md)
 - [Paper 1 – BSA](s04p01-eng.md)
 - [Paper 2 – Labour Law - 2](s04p02-eng.md)
 - [Paper 3 – Company Law -2](s04p03-eng.md)
