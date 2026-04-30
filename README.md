@@ -90,7 +90,7 @@ Would you like to try making a simple Markdown table yourself
 [[#heading check]]
 
 
-[Heading](Welcome.md#heading-check)
+[Heading](#heading-check)
 
 
 [heading check](#heading%20check)
